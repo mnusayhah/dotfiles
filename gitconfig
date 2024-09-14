@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = nusayhahnm@gmail.com
+	name = Nusayhah Mungur
